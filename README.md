@@ -22,6 +22,7 @@ Este es un proyecto web simple para realizar un sorteo de **Amigo Secreto**, des
 
 ## 📁 Estructura del Proyecto
 /amigo-secreto
+
 ├── index.html # Estructura HTML de la aplicación
 
 ├── style.css # Estilos CSS personalizados
