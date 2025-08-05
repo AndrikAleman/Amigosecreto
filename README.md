@@ -52,5 +52,3 @@ Este proyecto se ha realizado con fines educativos y recreativos. Eres libre de 
 
 
 Challenge Amigo Secreto - Alura - Oracle One Education
-
-challenge-amigo-secreto_esp-main/challenge-amigo-secreto_esp-main/index.html
