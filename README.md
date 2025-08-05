@@ -44,10 +44,6 @@ El diseño está enfocado en ser amigable, colorido y fácil de usar. Se utiliza
 - Estilo visual atractivo y responsivo.
 - Interfaz clara y amigable.
 
-## 📸 Captura de pantalla
-
-> Puedes agregar una imagen aquí si deseas:
->
 > ## 📜 Licencia
 
 Este proyecto se ha realizado con fines educativos y recreativos. Eres libre de modificarlo y adaptarlo a tus necesidades.
